@@ -282,6 +282,12 @@
     #muneco{
         display: none;
     }
+    .footer{
+      margin-top: 5%;
+    }
+    #copiar{
+      margin-top: 0%;
+    }
     
 }
   
