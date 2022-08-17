@@ -1,4 +1,4 @@
-<img src="https://juan-ign.github.io/Challenge1/Imagenes/Mu%C3%B1eco.png" alt="Logo Alura"><h2 class="titulo">Encriptador de texto</h2>
+<img src="https://github.com/Juan-Ign/Challenge1/blob/main/Imagenes/logo-aluralatam-oracle.svg" alt="Logo Alura"><h2 class="titulo">Encriptador de texto</h2>
 
 Creado para el desafio de Oracle y Alura LATAM. 
 
