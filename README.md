@@ -1,4 +1,6 @@
-Encriptador creado para el desafio de Oracle y Alura LATAM. 
+<img src="https://juan-ign.github.io/Challenge1/Imagenes/Mu%C3%B1eco.png" alt="Logo Alura"><h2 class="titulo">Encriptador de texto</h2>
+
+Creado para el desafio de Oracle y Alura LATAM. 
 
 Su función es convertir las letras de las palabras ingresadas en otras, para así poder encriptar el texto.
 
