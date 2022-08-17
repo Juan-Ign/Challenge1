@@ -1,4 +1,3 @@
-Descripcion:
 Encriptador creado para el desafio de Oracle y Alura LATAM.
 Su función es convertir las letras de las palabras ingresadas en otras, para así poder encriptar el texto.
 
