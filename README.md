@@ -1,4 +1,4 @@
-<img src="https://github.com/Juan-Ign/Challenge1/blob/main/Imagenes/logo-aluralatam-oracle.svg" alt="Logo Alura"><h2 class="titulo">Encriptador de texto</h2>
+<img src="https://github.com/Juan-Ign/Challenge1/blob/main/Imagenes/logo-aluralatam-oracle.svg" alt="Logo Alura"><h2>Encriptador de texto</h2>
 
 Creado para el desafio de Oracle y Alura LATAM. 
 
@@ -12,7 +12,7 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 - La letra "o" es convertida para "ober"
 - La letra "u" es convertida para "ufat".
 
-Requisitos
+<h1>Requisitos:</h1>
 </h2>
 <ul>
     <li>Debe funcionar solo con letras minúsculas.</li>
