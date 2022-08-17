@@ -18,6 +18,7 @@ function encriptar(){
     document.getElementById("ingresar-texto").style.display ="none";
     document.getElementById("input-desencriptar").style.display ="flex";
     document.getElementById("copiar").style.display ="initial";
+    document.getElementById("copiar").value = "Copiar";
 
 
 }
