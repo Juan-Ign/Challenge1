@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Encriptador</title>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+
+    </head>
+
+    <body>
+        <main>
+            <div class="caja">
+                <header class="header">
+                    <img src="Imagenes/logo.png" class="logo-alura" alt="Logo Alura"><h2 class="titulo">Encriptador de texto</h2>
+
+                </header>
+                <section class="main">
+                    <textarea name="textarea" id="input-encriptar" required placeholder="Ingrese el texto aquí"></textarea>
+
+                    <p class="info-caracteres">⚠️ Solo minúsculas y sin acentos.</p>
+
+                    <input type="button" id="boton-encriptar" value="Encriptar" onclick="encriptar()">
+
+                    <input type="button" id="boton-desencriptar" value="Desencriptar" onclick="desencriptar()">
+                </section>
+
+                <aside class="aside panel-2">
+
+                    <img src="Imagenes/Muñeco.png" alt="Ningun mensaje fue encontrado" id="muneco">
+
+                <h1 id="ningun-mensaje">Ningún mensaje fue encontrado.</h1>
+                <h1 id="ingresar-texto">Ingresa el texto que desees encriptar o desencriptar.</h1>
+
+                <textarea name="textarea" id="input-desencriptar" cols="30" rows="10" required placeholder="Ingresa el texto que desees encriptar o desencriptar." readonly></textarea>
+
+                <input type="button" id="copiar" value="Copiar" onclick="copiar()">
+
+                 </aside>
+                <footer class="footer">Creado por Juan Ignacio Enrique, para Oracle - Alura Challenges.</footer>
+            </div>                        
+        </main> 
+        <script src="/js/script.js"></script>
+    </body>
+</html>
