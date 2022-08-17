@@ -276,13 +276,11 @@
       height: 40vh;
     }
     .panel-2 {
+      margin-top: 5%;
       height: 400px;
     }
     #muneco{
-        margin-top: 1%;
-        margin-left: 0%;
-        height: 50%;
-        width: 90%;
+        display: none;
     }
     
 }
