@@ -12,5 +12,16 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 - La letra "o" es convertida para "ober"
 - La letra "u" es convertida para "ufat".
 
+Requisitos
+</h2>
+<ul>
+    <li>Debe funcionar solo con letras minúsculas.</li>
+    <li>No deben ser utilizados letras con acentos ni caracteres especiales.</li>
+    <li>Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.</li><br>
+
+    Por ejemplo:
+    "gato" => "gaitober"
+    gaitober" => "gato"
+
 Puedes ingresar al siguiente link y probarlo:
 https://juan-ign.github.io/Challenge1/
